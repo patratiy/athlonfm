@@ -15,6 +15,9 @@
 </head>
 <body>
     <div class="container">
+
+        <h1 class="h1 mt-2 mb-3 text-center">Athlon FM Demo</h1>
+
         <form action="/file" class="dropzone">
             <div class="fallback">
                 <input name="images" type="file" multiple />
